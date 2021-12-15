@@ -1,0 +1,41 @@
+.stock-details{
+    margin: 20px 40px;
+    padding: 20px 40px;
+    border: 1px solid #dedede;
+    border-radius: 4px;
+    text-align: left;
+}
+
+.stock-details .s-name{
+    font-size: 16px;
+    color: #282c34;;
+    font-weight: 400px;
+    text-align: left;
+}
+
+.stock-details{
+    color: rgba(32, 10, 10, 0.62);
+    font-size: 12px;
+}
+
+.stock-details .s-meta{
+    flex-direction: row;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+}
+
+.stock-details .title{
+    font-weight: bold;
+    color: #282c34;
+
+}
+
+.stock-details .curr-price, .stock-details .trade-on{
+    color: #188038;
+    font-weight: bold;
+    font-size: 14px;
+}
+
+
+
